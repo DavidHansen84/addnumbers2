@@ -1,0 +1,14 @@
+{
+  "name": "addnumbers",
+  "version": "1.0.0",
+  "description": "adding 2 numbers",
+  "main": "addnumbers.js",
+  "scripts": {
+    "start": "node addnumbers.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "author": "DavidHansen84",
+  "license": "ISC"
+}
